@@ -3,6 +3,7 @@
 Links to my open source contributions:
 - ![Commons Android App](https://github.com/commons-app/apps-android-commons/pulls?q=is%3Apr+is%3Aclosed+author%3AJason-Whitmore)
 - ![Elasticsearch](https://github.com/elastic/elasticsearch/pulls?q=is%3Apr+author%3AJason-Whitmore+is%3Aclosed)
+- ![LibreOffice (non Github)](https://gerrit.libreoffice.org/dashboard/1004757)
 
 
 Below are personal projects that I am particularly proud of.
